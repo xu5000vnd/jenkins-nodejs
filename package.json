@@ -1,0 +1,25 @@
+{
+  "name": "jenkins-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://xu5000vnd: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@github.com/xu5000vnd/jenkins-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xu5000vnd/jenkins-nodejs/issues"
+  },
+  "homepage": "https://github.com/xu5000vnd/jenkins-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
